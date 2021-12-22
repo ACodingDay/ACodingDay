@@ -13,7 +13,8 @@
 
  <!--START_SECTION:waka-->
 ```text
-Java   3 hrs 37 mins   █████████████████████████   100.00 % 
+Java             9 hrs 41 mins   ████████████████████████▒   97.20 % 
+XML              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 <!--END_SECTION:waka-->
 
