@@ -13,13 +13,13 @@
 
  <!--START_SECTION:waka-->
 ```text
-Total: 22 hrs 6 mins
+Total: 19 hrs 6 mins
 
-JavaScript   5 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.52 % 
-Vue.js       5 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Java         5 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-XML          3 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 % 
-SQL          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript   6 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   31.69 % 
+Vue.js       5 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   29.19 % 
+Java         3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.05 % 
+XML          3 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+HTML         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 <!--END_SECTION:waka-->
 
