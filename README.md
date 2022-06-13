@@ -14,7 +14,12 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Properties       25 mins         █████████████▓░░░░░░░░░░░   55.13 %
+Java             17 mins         █████████▒░░░░░░░░░░░░░░░   37.51 %
+Text             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Bash             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
