@@ -14,9 +14,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-Erlang   19 mins         ███████████████████████░░   92.04 %
-JSON     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
