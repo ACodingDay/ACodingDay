@@ -14,8 +14,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-Java     8 hrs 4 mins    ██████████████████████░░░   87.82 %
-Erlang   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Java   8 hrs 4 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
