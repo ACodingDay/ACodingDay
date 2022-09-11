@@ -14,7 +14,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Erlang            10 hrs 24 mins  ███████████████████████▒░   93.08 %
+C++               31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Protocol Buffer   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+C                 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
