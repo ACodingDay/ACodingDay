@@ -14,10 +14,8 @@
  <!--START_SECTION:waka-->
 
 ```text
-Erlang            12 hrs 28 mins  ███████████████████████▒░   93.50 %
-C++               27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Protocol Buffer   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Erlang            5 hrs 45 mins   ████████████████████████░   95.82 %
+Protocol Buffer   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
