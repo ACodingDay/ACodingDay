@@ -14,7 +14,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-Erlang            8 hrs 25 mins   █████████████████████████   99.85 %
+Erlang            8 hrs 18 mins   █████████████████████████   99.85 %
 Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
