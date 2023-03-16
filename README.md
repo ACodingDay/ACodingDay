@@ -14,8 +14,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-Erlang            2 mins          ██████████████████▓░░░░░░   74.56 %
-Protocol Buffer   0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
