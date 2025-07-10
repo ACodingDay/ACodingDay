@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://leetcode-cn.com/u/iamyyt/"><img src="https://img.shields.io/badge/算法-LeetCode-F89F1B?logo=leetcode&logoColor=ffffff"/></a>
 <a href="mailto:yinshuaibi@gmail.com"><img src="https://img.shields.io/badge/联系-靓仔-D14836?logo=Gmail&logoColor=ffffff"/></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=ACodingDay.readme"/>
 </p>
 
 ## 📊 本周编程
@@ -43,7 +42,6 @@ No activity tracked
 
 <p>
 <img src="https://img.shields.io/badge/-Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=ffffff"/>
 </p>
 
