@@ -11,8 +11,10 @@
 
  <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+Erlang     8 hrs 46 mins         █████████████████████████   99.87 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
