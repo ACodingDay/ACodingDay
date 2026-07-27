@@ -25,14 +25,14 @@ Bash       0 secs                ░░░░░░░░░░░░░░░�
 
 ## 👨‍💻 信息统计
 
-<details>
-    <summary>Github Stats</summary> 
-    <img src="https://github-stats-extended.vercel.app/api?username=ACodingDay&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
-</details>
-
 [![ACodingDay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ACodingDay&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<table>
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=ACodingDay&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a></td>
+  </tr>
+</table>
 
 ---
 
