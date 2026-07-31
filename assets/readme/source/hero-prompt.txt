@@ -1,0 +1,8 @@
+Asset type: transparent cutout subject for a GitHub README hero
+Composition/framing: upper body side profile facing right, seated at desk with terminal, generous padding
+Color palette: dark charcoal #0D1117-#161B22, crimson red #A90533 nodes, terminal green #3FB950 nodes, silver connection threads, cool blue-white rim lighting
+Constraints: one isolated subject; generous padding; no text; no letters; no logo; no watermark
+Background: perfectly flat solid #00FF00 with no gradient, texture, floor, reflection, or shadow
+
+Final prompt used:
+"A stylized digital illustration of a focused programmer figure in side profile, wearing a dark hoodie, seated at a minimal desk with a glowing terminal screen. Around the figure, several small luminous nodes connected by thin lines float in space, representing Erlang concurrent actor processes — some nodes glow deep crimson red (#A90533), others glow terminal green (#3FB950), connected by faint silver threads. The figure is rendered in a dark, moody tech illustration style with rim lighting in cool blue-white. The overall palette is dark charcoal (#0D1117 to #161B22) with crimson and green accent glows. Composition: figure occupies center-left, process nodes scatter to the right and above, generous negative space at top. Facing right toward the reserved text area. Body crop: upper body and desk visible, legs cropped. Style: clean vector-like digital painting, sharp edges, minimal noise. Background: perfectly flat solid #00FF00 green with no gradient, no texture, no floor, no reflection, no shadow. Constraints: one isolated subject, generous padding on all sides, no text, no letters, no logo, no watermark, no UI elements."
