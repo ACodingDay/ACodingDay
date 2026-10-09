@@ -14,7 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Erlang     1 hr 29 mins          █████████████████░░░░░░░░   68.12 %
+Markdown   27 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+PHP        14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
 ```
 
 <!--END_SECTION:waka-->
